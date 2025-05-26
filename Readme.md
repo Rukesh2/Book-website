@@ -13,19 +13,3 @@ A simple full-stack web application built using the MERN stack (MongoDB, Express
 
 ---
 
-## 📁 Folder Structure
-
-book-website/
-├── backend/ # Express backend (API + MongoDB)
-│ ├── models/ # Book schema
-│ ├── seed.js # Seed script with sample books
-│ ├── server.js # Express server
-│ └── package.json
-├── frontend/ # React frontend (UI)
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── index.js
-│ │ └── ...
-│ └── package.json
-├── .gitignore
-├── README.md 
